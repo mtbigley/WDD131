@@ -1,0 +1,41 @@
+/**/
+#content {
+    max-width: 500px;
+    border: 1px solid darkgrey; 
+    margin: 40px auto;
+    padding: 50px;
+    line-height: 1.2;
+}
+
+h1 {
+    text-align: center;
+}
+
+.university-name {
+    color: rgb(17, 115, 148);
+    text-align: center;
+}
+
+#Statement-text {
+    font-size: 14px;
+}
+
+.italic-line {
+    font-style: italic;
+}
+
+.list {
+    line-height: 1.5;
+}
+
+img {
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+}
+
+/**/
+
+/**/
+
+/**/
